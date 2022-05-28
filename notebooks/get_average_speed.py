@@ -1,8 +1,5 @@
-import json
 import requests
 import pandas as pd
-import numpy as np
-import holidays
 from datetime import datetime
 import googlemaps
 
