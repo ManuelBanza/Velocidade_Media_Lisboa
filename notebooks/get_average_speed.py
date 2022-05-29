@@ -8,7 +8,7 @@ od = pd.read_csv('../data_sources/data_raw/origin_destination.csv')
 
 
 #Perform request to use the Google Maps API web service
-API_key = 'AIzaSyCULyAlq4PTFVFteSk3pdiZXZML2MaHSbg'#enter Google Maps API key
+API_key = ''#enter Google Maps API key
 gmaps = googlemaps.Client(key=API_key)
 
 df_result = pd.DataFrame()
