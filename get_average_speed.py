@@ -60,4 +60,4 @@ df_result = df_result[
 
 
 # Get today date now to file name when export to csv or excel with encoding utf8
-df_result.to_csv(datetime.now().strftime('data_sources/data_transformed/velocidade_media_lisboa-%Y-%m-%d-%H-%M-%S.csv'), encoding='utf8', index=False)
+df_result.to_csv((datetime.now()+timedelta(hours=1)).strftime('data_sources/data_transformed/velocidade_media_lisboa-%Y-%m-%d-%H-%M-%S.csv'), encoding='utf8', index=False)
