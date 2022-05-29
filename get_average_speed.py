@@ -1,8 +1,5 @@
-import json
 import requests
 import pandas as pd
-import numpy as np
-import holidays
 from datetime import datetime
 import googlemaps
 
@@ -11,7 +8,7 @@ od = pd.read_csv('../data_sources/data_raw/origin_destination.csv')
 
 
 #Perform request to use the Google Maps API web service
-API_key = 'AIzaSyA9GXCsCRFCU0kNsrczDdveIQlYGXTStLk'#enter Google Maps API key
+API_key = 'AIzaSyCULyAlq4PTFVFteSk3pdiZXZML2MaHSbg'#enter Google Maps API key
 gmaps = googlemaps.Client(key=API_key)
 
 df_result = pd.DataFrame()
@@ -63,4 +60,4 @@ df_result = df_result[
 
 
 # Get today date now to file name when export to csv or excel with encoding utf8
-df_result.to_csv(datetime.now().strftime('../data_sources/data_transformed/velocidade_media_lisboa-%Y-%m-%d-%H-%M-%S.csv'), encoding='utf8', index=False)
+df_result.to_csv(datetime.now().strftime('data_sources/data_transformed/velocidade_media_lisboa-%Y-%m-%d-%H-%M-%S.csv'), encoding='utf8', index=False)
