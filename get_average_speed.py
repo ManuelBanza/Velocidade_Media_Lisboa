@@ -4,7 +4,7 @@ from datetime import datetime
 import googlemaps
 
 # Import origins and destinations
-od = pd.read_csv('../data_sources/data_raw/origin_destination.csv')
+od = pd.read_csv('data_sources/data_raw/origin_destination.csv')
 
 
 #Perform request to use the Google Maps API web service
