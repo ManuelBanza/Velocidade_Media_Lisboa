@@ -1,0 +1,5 @@
+date,hour,dayofweek,origin_addresses,destination_addresses,distance_km,distance_meters,duration_hours,duration_minutes,duration_seconds,average_speed
+2022-05-30,08:26,Monday,"Av. Alm. Reis 2, 1150-096 Lisboa, Portugal","Av. Alm. Reis 248, 1900-027 Lisboa, Portugal",2.2,2208,0.10611111111111111,6 mins,382,20.73298429319372
+2022-05-30,08:26,Monday,"Av. Alm. Reis 247, 1000-051 Lisboa, Portugal","Av. Alm. Reis 1, 1150-096 Lisboa, Portugal",2.4,2382,0.1238888888888889,7 mins,446,19.37219730941704
+2022-05-30,08:26,Monday,"Praça dos Restauradores 58, 1150-265 Lisboa, Portugal","Praça Marquês de Pombal, 1250-096 Lisboa, Portugal",1.7,1691,0.08972222222222222,5 mins,323,18.947368421052634
+2022-05-30,08:26,Monday,"Praça Marquês de Pombal, 1250-096 Lisboa, Portugal","Praça dos Restauradores 58, 1150-265 Lisboa, Portugal",1.4,1422,0.07444444444444444,4 mins,268,18.80597014925373
