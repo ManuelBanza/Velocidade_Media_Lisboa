@@ -1,6 +1,5 @@
 import requests
 import pandas as pd
-import holidays
 from datetime import datetime, timedelta
 import io
 from pandas.io.json import json_normalize
