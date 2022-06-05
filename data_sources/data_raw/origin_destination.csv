@@ -1,0 +1,5 @@
+Rua,Origin,Destination,url
+Avenida Almirante Reis,Av. Alm. Reis 2,Av. Alm. Reis 248,https://api.tomtom.com/routing/1/calculateRoute/38.7203855%2C-9.135288%3A38.7403938%2C-9.1333577/json?key=3PzoAnPjTSaAaPS017HslDRG7LxPVAwk
+Avenida Almirante Reis,Av. Alm. Reis 247,Av. Alm. Reis 1,https://api.tomtom.com/routing/1/calculateRoute/38.741639%2C-9.1336002%3A38.7203257%2C-9.1357084/json?key=3PzoAnPjTSaAaPS017HslDRG7LxPVAwk
+Avenida da Liberdade,"Monumento aos Restauradores, Praça dos Restauradores 58, 1150-265 Lisboa","Marquis of Pombal Square, Lisboa",https://api.tomtom.com/routing/1/calculateRoute/38.71583333%2C-9.14166667%3A38.7252524%2C-9.1500389/json?key=3PzoAnPjTSaAaPS017HslDRG7LxPVAwk
+Avenida da Liberdade,"Marquis of Pombal Square, Lisboa","Monumento aos Restauradores, Praça dos Restauradores 58, 1150-265 Lisboa",https://api.tomtom.com/routing/1/calculateRoute/38.7252524%2C-9.1500389%3A38.71583333%2C-9.14166667/json?key=3PzoAnPjTSaAaPS017HslDRG7LxPVAwk
