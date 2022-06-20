@@ -5,7 +5,7 @@ name: 3 PM Lisbon Extract average speed
 
 on:
     schedule:
-      - cron: "0 16 * * *"
+      - cron: "0 14 * * *"
  
 permissions:
   contents: write
