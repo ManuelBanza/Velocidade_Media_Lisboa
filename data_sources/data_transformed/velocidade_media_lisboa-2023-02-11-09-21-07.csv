@@ -1,0 +1,5 @@
+Rua,Origin,Destination,date,hour,dayofweek,lengthInMeters,distance_km,travelTimeInSeconds,duration_minutes,duration_hours,average_speed,departureTime,arrivalTime,trafficDelayInSeconds,trafficLengthInMeters
+Avenida Almirante Reis,Av. Alm. Reis 2,Av. Alm. Reis 248,2023-02-11,08:21,Saturday,2226,2.226,303,5.05,0.08416666666666667,26.447524752475246,2023-02-11T08:21:07Z,2023-02-11T08:26:09Z,0,0
+Avenida Almirante Reis,Av. Alm. Reis 247,Av. Alm. Reis 1,2023-02-11,08:21,Saturday,2372,2.372,374,6.233333333333333,0.10388888888888889,22.832085561497326,2023-02-11T08:21:07Z,2023-02-11T08:27:21Z,0,0
+Avenida da Liberdade,"Monumento aos Restauradores, Praça dos Restauradores 58, 1150-265 Lisboa","Marquis of Pombal Square, Lisboa",2023-02-11,08:21,Saturday,4455,4.455,572,9.533333333333333,0.15888888888888889,28.03846153846154,2023-02-11T08:21:07Z,2023-02-11T08:30:38Z,0,0
+Avenida da Liberdade,"Marquis of Pombal Square, Lisboa","Monumento aos Restauradores, Praça dos Restauradores 58, 1150-265 Lisboa",2023-02-11,08:21,Saturday,2938,2.938,481,8.016666666666667,0.13361111111111112,21.989189189189187,2023-02-11T08:21:07Z,2023-02-11T08:29:07Z,0,0
